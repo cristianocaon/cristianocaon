@@ -9,6 +9,5 @@ I am from Brazil, and I am passionate about coding and learning new technologies
 - 🌱 I’m currently learning Node.js and overall backend development!
 - 🔭 I’m currently looking for a full-time position as Software Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocaon&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
