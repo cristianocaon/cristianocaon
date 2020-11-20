@@ -15,13 +15,5 @@ Passionate about coding and learning new technologies in the *www* :computer:!
 - :scroll: Check out my <a href="https://www.linkedin.com/in/cristianocaon/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACxkuJABulMg-s73fzWlFdARyA0eJuM496c,1605136307787)/">resume</a>!
 
 ### Languages
+<img src="https://img.icons8.com/color/45/000000/python.png"/><img src="https://img.icons8.com/color/45/000000/javascript.png"/><img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/45/000000/html-5.png"/><img src="https://img.icons8.com/color/45/000000/css3.png"/><img src="https://img.icons8.com/color/45/000000/postgreesql.png"/><img src="https://img.icons8.com/color/45/000000/mongodb.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/32/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/64/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
