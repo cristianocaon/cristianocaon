@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there, I am Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
+  <h2>Hi there, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
 </div>
 
 <div align="center">
