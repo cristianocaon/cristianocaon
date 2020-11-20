@@ -1,16 +1,13 @@
-## Hello and Welcome to my profile! 👋 
+## Hi there, I am Cristiano! 👋 
 
-### Who am I?
-I am Cristiano Caon and I am a Computer Science undergraduate at Texas Tech University! 
-Passionate about coding and learning new technologies in the www.
+I am a Computer Science undergraduate at Texas Tech University.
 
-<!--
-**cristianocaon/cristianocaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Brazil, and I am passionate about coding and learning new technologies in the *www*!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently looking for a full-time position as Software Engineer!
 - 🌱 I’m currently learning Node.js and overall backend development!
-- 📫 Let's connect! 
+- 🔭 I’m currently looking for a full-time position as Software Engineer
 
--->
+### Let's connect!
+<a href=”https://www.linkedin.com/in/cristianocaon"><img src=”"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocaon&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
