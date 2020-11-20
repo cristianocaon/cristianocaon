@@ -1,7 +1,8 @@
 ## Hi there, I am Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-[<img alt="Cristiano Caon - LinkedIn" src="https://raw.githubusercontent.com/yanli0303/yanli0303/master/assets/linkedin@4x.png" width="24" height="24" />](https://www.linkedin.com/in/cristianocaon/)
-[<img alt="Cristiano Caon - Email" src="https://raw.githubusercontent.com/yanli0303/yanli0303/master/assets/email@4x.png" width="24" height="24" />](mailto:cristiano.e.caon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cristianocaon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocaon/)](https://www.linkedin.com/in/cristianocaon/)
+[![Instagram Badge](https://img.shields.io/badge/-cristiano.caon-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristiano.caon/)](https://www.instagram.com/cristiano.caon/)
+[![Gmail Badge](https://img.shields.io/badge/-cristiano.e.caon@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiano.e.caon@gmail.com)](mailto:mail@jayraj.co.in)
 
 ### Bio
 
