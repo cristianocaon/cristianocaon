@@ -14,10 +14,10 @@
 
 ### Bio
 
-- :notebook: CS undergrad at **Texas Tech University** with minors in Math and German
+- :notebook: Computer Science undergraduate at **Texas Tech University** with minors in Math and German
 - :computer: Passionate about coding and learning new technologies in the *www* 
-- 🌱 Learning backend development with Node.js
-- 🔭 Currently looking for a full-time position as **Software Engineer**
+- 🌱 Learning system programming with **C** and **UNIX**
+- 🔭 Looking forward to the Master program of Computer Science at *TTU*
 
 ### Languages
 <img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/html-5.png"/><img src="https://img.icons8.com/color/42/000000/css3.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
