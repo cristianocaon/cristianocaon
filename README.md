@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
+  <h1>Hi there, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> 
 </div>
 
 <div align="center">
@@ -12,13 +12,15 @@
   <a href="mailto:cristiano.e.caon@gmail.com"><img src="https://img.shields.io/badge/-cristiano.e.caon@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiano.e.caon@gmail.com" /></a>
 </div>
 
-### Bio
+<div align="center">
+  <h2>Bio</h2>
+    <p>:notebook: M.S. in Computer Science at **Texas Tech University**</p>
+    <p>:computer: Passionate about coding and learning new technologies in the *www*</p>
+    <p>🌱 Learning React.js</p>
+    <p>🔭 Working at the HPCC at TTU!</p>
+</div>
 
-- :notebook: M.S. in Computer Science at **Texas Tech University**
-- :computer: Passionate about coding and learning new technologies in the *www* 
-- 🌱 Learning React.js
-- 🔭 Working at the HPCC at TTU!
-
-### Languages
+<div align="center">
+  <h2>Languages</h2>
 <img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
-
+</div>
