@@ -22,7 +22,9 @@
 
 <div align="center">
   <h2>Languages</h2>
-<img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/ultraviolet/42/000000/react--v2.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/ultraviolet/42/000000/react--v2.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/><img src="https://img.icons8.com/ios/42/000000/javascript--v2.png"/>
 </div>
 
+<div align="center">
 <a href="https://icons8.com/icon/hKrJAdwqbGgG/javascript">JavaScript icon by Icons8</a>
+</div>
