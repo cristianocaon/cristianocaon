@@ -16,11 +16,13 @@
   <h2>Bio</h2>
   <p>:notebook: M.S. in Computer Science at <strong>Texas Tech University</strong></p>
   <p>:computer: Passionate about coding and learning new technologies in the <em>www</em></p>
-    <p>🌱 Learning React.js</p>
-    <p>🔭 Working at the HPCC at TTU!</p>
+  <p>🔭 Working at the HPCC at TTU!</p>
+  <p>🌱 Learning React.js</p>
 </div>
 
 <div align="center">
   <h2>Languages</h2>
-<img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/ultraviolet/42/000000/react--v2.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
 </div>
+
+<a href="https://icons8.com/icon/hKrJAdwqbGgG/javascript">JavaScript icon by Icons8</a>
