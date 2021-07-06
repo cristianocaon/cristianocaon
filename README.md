@@ -14,10 +14,10 @@
 
 ### Bio
 
-- :notebook: Computer Science undergraduate at **Texas Tech University** with minors in Math and German
+- :notebook: M.S. in Computer Science at **Texas Tech University**
 - :computer: Passionate about coding and learning new technologies in the *www* 
-- 🌱 Learning system programming with **C** and **UNIX**
-- 🔭 Looking forward to the Master program of Computer Science at *TTU*!
+- 🌱 Learning React.js
+- 🔭 Working at the HPCC at TTU!
 
 ### Languages
 <img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
