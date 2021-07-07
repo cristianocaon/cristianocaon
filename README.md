@@ -14,9 +14,9 @@
 
 <div align="center">
   <h2>Bio</h2>
+  <p>:computer: Passionate about coding and learning new technologies in the <em>www</em>!</p>
   <p>:notebook: M.S. in Computer Science at <strong>Texas Tech University</strong></p>
-  <p>:computer: Passionate about coding and learning new technologies in the <em>www</em></p>
-  <p>🔭 Working at the HPCC at TTU!</p>
+  <p>🔭 Working for the HPCC at TTU!</p>
   <p>🌱 Learning React.js</p>
 </div>
 
