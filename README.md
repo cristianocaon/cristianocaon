@@ -11,7 +11,7 @@
   <p>:briefcase: Working for the <strong>HPCC</strong> at TTU</p>
   <p>:seedling: Learning React.js</p>
   
-  <h3><em>Languages</em></h3>
+  <h3><em>Technologies</em></h3>
 <img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/windows/42/000000/node-js.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
   
   <h3><em>Reach out to me!</em></h3>
