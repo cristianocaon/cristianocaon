@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello friend, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
+  <h1>Hello friend, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
   
   <h3>About myself</h3>
   <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www</em></p>
