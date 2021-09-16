@@ -3,7 +3,7 @@
   
   <h3><em>About myself</em></h3>
   <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www</em></p>
-  <p>:brazil: From Foz do Iguaçu, Paraná :us: Living in Lubbock, Texas</p>
+  <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
   <h3><em>Education & Work</em></h3>
   <p>:mortar_board: M.S. in Computer Science at <strong>Texas Tech University</strong></p>
