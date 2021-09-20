@@ -6,8 +6,8 @@
   <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
   <h3><em>Education & Work</em></h3>
-  <p>:mortar_board: M.S. in Computer Science at <strong>Texas Tech University</strong></p>
-  <p>:books: Intelligent Systems, Parallel Processing, Theory of Automata</p>
+  <p>:mortar_board: M.S. in Computer Science & Business minor at <strong>Texas Tech University</strong></p>
+  <p>:books: Intelligent Systems, Parallel Processing, Theory of Automata, Business Essentials</p>
   <p>:briefcase: Working for the <strong>HPCC</strong> at TTU</p>
   <p>:seedling: Learning React.js</p>
   
