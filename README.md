@@ -7,9 +7,9 @@
   
   <h3><em>Education & Work</em></h3>
   <p>:mortar_board: M.S. in Computer Science & Business minor at <strong>Texas Tech University</strong></p>
-  <p>:books: Intelligent Systems, Parallel Processing, Theory of Automata, Business Essentials</p>
-  <p>:briefcase: Working for the <strong>HPCC</strong> at TTU</p>
-  <p>:seedling: Learning React.js</p>
+  <p>:books: Advanced Operating Systems Design, Software Modeling & Architecture, Marketing Concepts & Strategies</p>
+<!--   <p>:briefcase: Working for the <strong>HPCC</strong> at TTU</p> -->
+<!--   <p>:seedling: Learning React.js</p> -->
   
   <h3><em>Technologies</em></h3>
 <img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/windows/42/000000/node-js.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
