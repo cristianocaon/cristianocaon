@@ -5,9 +5,10 @@
   <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www</em>!</p>
   <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
-  <h3><em>Education & Work</em></h3>
-  <p>:mortar_board: M.S. in Computer Science & Business minor at <strong>Texas Tech University</strong></p>
-  <p>:books: Thesis: <em>Effective Management of Time Series Data</em></p>
+  <h3><em>Education</em></h3>
+  <p>:mortar_board: M.S. in Computer Science with General Business minor at <strong>Texas Tech University</strong></p>
+  <p>:books: <em>Thesis: Effective Management of Time Series Data</em></p>
+  <p>:mortar_board: B.S. in Computer Science with Mathematics & German minors from <strong>Texas Tech University</strong></p>
   
   <h3><em>Technologies</em></h3>
 <img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/36/000000/jira.png"/><img src="https://img.icons8.com/fluency/36/000000/confluence.png"/>
