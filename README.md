@@ -10,7 +10,7 @@
   <p>:books: Thesis: <em>Effective Management of Time Series Data</em></p>
   
   <h3><em>Technologies</em></h3>
-<img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/36/000000/jira.png"/><img src="https://img.icons8.com/fluency/36/000000/confluence.png"/>
   
   <h3><em>Let's connect!</em></h3>
   <a href="https://www.linkedin.com/in/cristianocaon/"><img src="https://img.shields.io/badge/-cristianocaon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocaon/" /></a>
