@@ -2,17 +2,15 @@
   <h1>Hello friend, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
   
   <h3><em>About myself</em></h3>
-  <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www</em></p>
+  <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www</em>!</p>
   <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
   <h3><em>Education & Work</em></h3>
   <p>:mortar_board: M.S. in Computer Science & Business minor at <strong>Texas Tech University</strong></p>
-  <p>:books: Advanced Operating Systems Design, Software Modeling & Architecture, Marketing Concepts & Strategies</p>
-<!--   <p>:briefcase: Working for the <strong>HPCC</strong> at TTU</p> -->
-<!--   <p>:seedling: Learning React.js</p> -->
+  <p>:books: Thesis: <em>Effective Management of Time Series Data</em></p>
   
   <h3><em>Technologies</em></h3>
-<img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/windows/42/000000/node-js.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/><img src="https://img.icons8.com/color/42/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/42/000000/python.png"/><img src="https://img.icons8.com/color/42/000000/javascript.png"/><img src="https://img.icons8.com/color/42/000000/react-native.png"/><img src="https://img.icons8.com/color/42/000000/c-programming.png"/><img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/42/000000/bash.png"/><img src="https://img.icons8.com/color/42/000000/postgreesql.png"/>
   
   <h3><em>Let's connect!</em></h3>
   <a href="https://www.linkedin.com/in/cristianocaon/"><img src="https://img.shields.io/badge/-cristianocaon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocaon/" /></a>
