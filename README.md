@@ -6,7 +6,7 @@
   <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
   <h3><em>Education</em></h3>
-  <p>:mortar_board: M.S. in Computer Science with General Business minor at <strong>Texas Tech University</strong></p>
+  <p>:mortar_board: M.S. in Computer Science with General Business minor from <strong>Texas Tech University</strong></p>
   <p>:books: <em>Thesis: Effective Management of Time Series Data</em></p>
   <p>:mortar_board: B.S. in Computer Science with Mathematics & German minors from <strong>Texas Tech University</strong></p>
   
