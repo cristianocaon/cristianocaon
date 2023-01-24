@@ -6,9 +6,9 @@
   <p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
   
   <h3><em>Education</em></h3>
+  <p>:mortar_board: B.S. in Computer Science with Mathematics & German minors from <strong>Texas Tech University</strong></p>
   <p>:mortar_board: M.S. in Computer Science with General Business minor from <strong>Texas Tech University</strong></p>
   <p>:books: <em>Thesis: Effective Management of Time Series Data</em></p>
-  <p>:mortar_board: B.S. in Computer Science with Mathematics & German minors from <strong>Texas Tech University</strong></p>
   
   <h3><em>Let's connect!</em></h3>
   <a href="https://www.linkedin.com/in/cristianocaon/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianocaon/" /></a>
