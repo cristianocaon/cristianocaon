@@ -8,7 +8,7 @@
 <h3>Education</h3>
 <p>:mortar_board: M.S. in Computer Science with minor in General Business from <strong>Texas Tech University</strong></p>
 <ul>
-  <li>📜 <em>Thesis: Effective Management of Time Series Data</em></li>
+  <li><em>Thesis: Effective Management of Time Series Data</em></li>
 </ul>
 <p>:mortar_board: B.S. in Computer Science with minors in Mathematics & German from <strong>Texas Tech University</strong></p>
   
