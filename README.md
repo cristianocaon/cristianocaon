@@ -1,8 +1,8 @@
 <h1>Hello friend, I'm Cristiano! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
   
-<h3><em>About myself</em></h3>
+<h3>About myself</h3>
 <p>:globe_with_meridians: Passionate about programming and learning new technologies in the <em>www!</em></p>
-<p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Lubbock, Texas</p>
+<p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Royal Oak, Michigan</p>
   
 <h3><em>Education</em></h3>
 <p>:mortar_board: B.S. in Computer Science with Mathematics & German minors from <strong>Texas Tech University</strong></p>
