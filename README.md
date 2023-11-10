@@ -2,14 +2,12 @@
   
 <h3>About myself</h3>
 <p>:globe_with_meridians: Technology lover. Avid collaborator. Lifelong learner.</p>
-<p>👾 Solving real life problems through software to cause a positive impact in people’s life!</p>
-<p>:brazil: From Foz do Iguaçu, Paraná | :us: Living in Royal Oak, Michigan</p>
+<p>👾 Harnessing the power of software to create meaningful products through collaboration and innovation!</p>
+<p>:round_pushpin: From Foz do Iguaçu, Paraná :brazil: -- Living in Royal Oak, Michigan :us:</p>
   
 <h3>Education</h3>
 <p>:mortar_board: M.S. in Computer Science with minor in General Business from <strong>Texas Tech University</strong></p>
-<ul>
-  <li><em>Thesis: Effective Management of Time Series Data</em></li>
-</ul>
+<p>&emsp;&ensp;<a href="https://ieeexplore.ieee.org/document/10254974">Effective Management of Time Series Data</a></p>
 <p>:mortar_board: B.S. in Computer Science with minors in Mathematics & German from <strong>Texas Tech University</strong></p>
   
 <h3>Let's connect!</h3>
