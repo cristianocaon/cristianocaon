@@ -7,7 +7,7 @@
   
 <h3>Education</h3>
 <p>:mortar_board: M.S. in Computer Science with minor in General Business from <strong>Texas Tech University</strong></p>
-<p>&emsp;&ensp;:scroll: <a href="https://ieeexplore.ieee.org/document/10254974">IEEE: Effective Management of Time Series Data</a></p>
+<p>&emsp;&ensp;📜 <a href="https://ieeexplore.ieee.org/document/10254974">IEEE: Effective Management of Time Series Data</a></p>
 <p>:mortar_board: B.S. in Computer Science with minors in Mathematics & German from <strong>Texas Tech University</strong></p>
   
 <h3>Let's connect!</h3>
